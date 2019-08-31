@@ -1,0 +1,47 @@
+body {
+    background: #eee;
+    text-align: center
+}
+#title{
+    font-size: 3rem;
+
+}
+#image{
+  
+width: 66%;
+  }
+#img-div {
+    background: white;
+    margin: 10px 8px 3px 8px;
+}
+
+#img-caption {
+    padding-bottom: 10px;
+}
+
+#tribute-info,
+article,
+article+p {
+    position: relative;
+    left: 540px;
+    text-align: start;
+}
+
+#tribute-info {
+    width: 536px;
+    text-align: start;
+}
+
+li {
+    padding-bottom: 19px;
+}
+
+#tribute-info h4 {
+    position: relative;
+    left: 123px;
+    padding: 17px
+}
+
+article {
+    width: 500px;
+}
